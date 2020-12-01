@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcklenAvenueTest", "AcklenAvenueTest\AcklenAvenueTest.csproj", "{746F01F3-4C01-474B-B3A2-A2A9D0D7E868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{746F01F3-4C01-474B-B3A2-A2A9D0D7E868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746F01F3-4C01-474B-B3A2-A2A9D0D7E868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746F01F3-4C01-474B-B3A2-A2A9D0D7E868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746F01F3-4C01-474B-B3A2-A2A9D0D7E868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {562684E4-C5DB-41E3-AEC2-0AD5C33BCB26}
+	EndGlobalSection
+EndGlobal
