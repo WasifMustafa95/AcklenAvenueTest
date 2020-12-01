@@ -1,0 +1,13 @@
+/workspace/AcklenAvenueTest/AcklenAvenueTest/bin/Debug/netcoreapp3.1/AcklenAvenueTest
+/workspace/AcklenAvenueTest/AcklenAvenueTest/bin/Debug/netcoreapp3.1/AcklenAvenueTest.deps.json
+/workspace/AcklenAvenueTest/AcklenAvenueTest/bin/Debug/netcoreapp3.1/AcklenAvenueTest.runtimeconfig.json
+/workspace/AcklenAvenueTest/AcklenAvenueTest/bin/Debug/netcoreapp3.1/AcklenAvenueTest.runtimeconfig.dev.json
+/workspace/AcklenAvenueTest/AcklenAvenueTest/bin/Debug/netcoreapp3.1/AcklenAvenueTest.dll
+/workspace/AcklenAvenueTest/AcklenAvenueTest/bin/Debug/netcoreapp3.1/AcklenAvenueTest.pdb
+/workspace/AcklenAvenueTest/AcklenAvenueTest/obj/Debug/netcoreapp3.1/AcklenAvenueTest.csprojAssemblyReference.cache
+/workspace/AcklenAvenueTest/AcklenAvenueTest/obj/Debug/netcoreapp3.1/AcklenAvenueTest.csproj.CoreCompileInputs.cache
+/workspace/AcklenAvenueTest/AcklenAvenueTest/obj/Debug/netcoreapp3.1/AcklenAvenueTest.AssemblyInfoInputs.cache
+/workspace/AcklenAvenueTest/AcklenAvenueTest/obj/Debug/netcoreapp3.1/AcklenAvenueTest.AssemblyInfo.cs
+/workspace/AcklenAvenueTest/AcklenAvenueTest/obj/Debug/netcoreapp3.1/AcklenAvenueTest.dll
+/workspace/AcklenAvenueTest/AcklenAvenueTest/obj/Debug/netcoreapp3.1/AcklenAvenueTest.pdb
+/workspace/AcklenAvenueTest/AcklenAvenueTest/obj/Debug/netcoreapp3.1/AcklenAvenueTest.genruntimeconfig.cache

@@ -8,6 +8,7 @@ namespace AcklenAvenueTest
     {
         static void Main(string[] args)
         {
+            var z = Console.ReadLine();
             Console.WriteLine("Hello");
         }
     }
